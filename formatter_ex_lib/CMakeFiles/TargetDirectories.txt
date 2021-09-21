@@ -1,0 +1,6 @@
+/home/andrey/Berendei-Jr/workspace/projects/lab03/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/home/andrey/Berendei-Jr/workspace/projects/lab03/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/andrey/Berendei-Jr/workspace/projects/lab03/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/andrey/Berendei-Jr/workspace/projects/lab03/formatter_ex_lib/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/andrey/Berendei-Jr/workspace/projects/lab03/formatter_ex_lib/formatter_lib/CMakeFiles/edit_cache.dir
+/home/andrey/Berendei-Jr/workspace/projects/lab03/formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir
