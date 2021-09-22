@@ -1,4 +1,4 @@
-
+[![Build Status](https://app.travis-ci.com/Yourmaidishere/lab07.svg?branch=main)](https://app.travis-ci.com/Yourmaidishere/lab07)
 # Лабораторная работа №7
 
   1) Для настройки Hunter-пакета для простого приложения solver мне необходимо для начала создать в папке проекта папку cmake и из нее прописать команду ```
